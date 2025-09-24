@@ -14,11 +14,6 @@ AI Learning Buddy is a minimalistic AI-powered web application that helps users 
 
 ---
 
-## Screenshots
-
-![Screenshot](screenshot.png)  <!-- Replace with your screenshot -->
-
----
 
 ## Installation
 
